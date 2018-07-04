@@ -1,0 +1,6 @@
+access id key:AKIAJ6QRBS4X65ZKUMVA
+secret access key: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
+
+
+
+https://gist.github.com/alexcasalboni/0f21a1889f09760f8981b643326730ff
